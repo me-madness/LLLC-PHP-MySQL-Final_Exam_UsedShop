@@ -1,0 +1,46 @@
+body {
+    background-image: url('images/background-image.jpg');
+    font-size: 150%;
+    text-align: center;
+}
+
+header{
+    padding-top: 10%;
+    font-size: 450%;
+}
+
+p {
+    color: red;
+}
+
+a {
+    font-size: 150%;
+    color: black;
+}
+
+a .product {
+    font-size: 100%;
+    color: blue;
+}
+
+li {
+    display: block;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 150%;
+    font-family: Comic Sans Ms;
+}
+
+body .avatar {
+    width: 6%;
+}
+
+img {
+    width: 15%;
+}
